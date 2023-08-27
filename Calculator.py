@@ -6,6 +6,7 @@ operations_history = []  # To store the last 20 operations
 
 def calculate_expression(expression):
     try:
+        expression = expression.replace('plus', '+').replace('minus', '-').replace('into', '*').replace('by', '/')
         result = eval(expression)
         return result
     except Exception as e:
