@@ -38,4 +38,5 @@ This should display the version of SQLite installed on your system.
 If you're using macOS and have Homebrew installed, you can install SQLite with:
 
 brew update
+
 brew install sqlite
