@@ -15,7 +15,8 @@ Built a server that responds to mathematical operations sent via URL. It also ma
 You can implement any amount of operators int it.
 
 
-#Installing_SQLite:
+# Installing_SQLite:
+
 SQLite is a lightweight, self-contained, and serverless SQL database engine that's widely used for embedded systems and local data storage.
 
 1) For Windows, you can download the precompiled binaries of SQLite from the official website:
